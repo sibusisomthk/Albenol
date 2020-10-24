@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sibusiso\\source\\repos\\AlbenolOnline\\AlbenolOnline.csproj": {}
+    "C:\\Users\\Sibusiso\\source\\repos\\Albenol\\AlbenolOnline\\AlbenolOnline.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sibusiso\\source\\repos\\AlbenolOnline\\AlbenolOnline.csproj": {
+    "C:\\Users\\Sibusiso\\source\\repos\\Albenol\\AlbenolOnline\\AlbenolOnline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sibusiso\\source\\repos\\AlbenolOnline\\AlbenolOnline.csproj",
+        "projectUniqueName": "C:\\Users\\Sibusiso\\source\\repos\\Albenol\\AlbenolOnline\\AlbenolOnline.csproj",
         "projectName": "AlbenolOnline",
-        "projectPath": "C:\\Users\\Sibusiso\\source\\repos\\AlbenolOnline\\AlbenolOnline.csproj",
+        "projectPath": "C:\\Users\\Sibusiso\\source\\repos\\Albenol\\AlbenolOnline\\AlbenolOnline.csproj",
         "packagesPath": "C:\\Users\\Sibusiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sibusiso\\source\\repos\\AlbenolOnline\\obj\\",
+        "outputPath": "C:\\Users\\Sibusiso\\source\\repos\\Albenol\\AlbenolOnline\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
